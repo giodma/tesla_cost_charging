@@ -22,6 +22,14 @@ Questo progetto è **attualmente in fase di sviluppo/sperimentale** ed è nato p
 
 ---
 
+## 📸 Anteprima dell'App
+
+| Schermata Principale |
+| :---: |
+| ![Tesla Home](teslahome.jpeg) |
+
+---
+
 ## 🚀 Come iniziare (Sviluppo Locale)
 
 Se desideri clonare e testare il progetto in locale:
