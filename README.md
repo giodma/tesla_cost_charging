@@ -26,7 +26,7 @@ Questo progetto è **attualmente in fase di sviluppo/sperimentale** ed è nato p
 
 | Schermata Principale |
 | :---: |
-| ![Tesla Home](teslahome.jpeg) |
+| ![Tesla Home](teslahome.jpg) |
 
 ---
 
